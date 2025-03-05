@@ -8,4 +8,6 @@
 
 html body a.srcbook_watermark {
   display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
 }
